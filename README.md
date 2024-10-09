@@ -1,5 +1,11 @@
-## Hi there 👋
+# 😇 KIM SEONG RYEONG 😇
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMTsauRus&count_bg=%23F4FF00&title_bg=%2300FFE0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=qksrurwnsql)](https://solved.ac/qksrurwnsql)  
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qksrurwnsql)](https://solved.ac/qksrurwnsql)
 <!--
 **MTsauRus/MTsauRus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
