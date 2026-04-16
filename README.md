@@ -1,13 +1,13 @@
 ### Hi there😇
 
+<!--
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=qksrurwnsql)](https://solved.ac/qksrurwnsql)  
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qksrurwnsql)](https://solved.ac/qksrurwnsql)
-
+-->
 [![solved.ac stats v2 streak](https://solvedac-readme-stats.vercel.app/api?handle=qksrurwnsql&v=2&streak=true)](https://github.com/kookjd7759/solvedac-readme-stats)
-
 <!--
 **MTsauRus/MTsauRus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
